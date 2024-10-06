@@ -35,28 +35,4 @@ The quantities and names of each dish sold
 The unit price of each dish
 The total received for each dish
 The overall total revenue, cut taken, total after cut, and pre-cut profit
-Output Example
-The output will look something like this (assuming certain quantities were entered):
-
-markdown
-Copy code
-------------------------------------------
-----Tomburan Longriver's Savory Dishes----
-------------------------------------------
- QTY   DISH NAME    UNIT PRICE   TOTAL RECEIVED
----- -----------   ----------    --------------
-   5 Mushrooms      $  0.80      $   4.00
-   3 Lembas         $  3.00      $   9.00
-   2 Cram Bread     $  2.00      $   4.00
-   4 Salted Pork    $  2.25      $   9.00
-   1 Rabbit Stew    $  3.25      $   3.25
-   2 Honey Cake     $  2.00      $   4.00
-   6 Well Water     $  1.25      $   7.50
-                            --------------
-              TOTAL RECEIVED      $  40.75
-                   CUT TAKEN      $   2.75
-             TOTAL MINUS CUT      $  38.00
-
-Total Profit pre-cut: $20.37
-Summary
 In summary, the program serves as a basic point-of-sale system for a shop selling food items, allowing the owner to input sales data, calculate totals, and print a receipt in a structured format. It can be expanded with features like input validation, error handling, and more detailed sales reporting.
